@@ -136,7 +136,7 @@ item-description{
 /* resume section style */
 .resume-container{
     display: flex;
-    gap: 200px;
+    gap: 100px;
 
 }
 .experience-description{
